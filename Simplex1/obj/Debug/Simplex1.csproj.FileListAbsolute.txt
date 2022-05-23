@@ -1,0 +1,8 @@
+C:\Users\ilya\source\repos\Simplex1\Simplex1\bin\Debug\Simplex1.exe.config
+C:\Users\ilya\source\repos\Simplex1\Simplex1\bin\Debug\Simplex1.exe
+C:\Users\ilya\source\repos\Simplex1\Simplex1\bin\Debug\Simplex1.pdb
+C:\Users\ilya\source\repos\Simplex1\Simplex1\obj\Debug\Simplex1.csproj.AssemblyReference.cache
+C:\Users\ilya\source\repos\Simplex1\Simplex1\obj\Debug\Simplex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilya\source\repos\Simplex1\Simplex1\obj\Debug\Simplex1.csproj.CoreCompileInputs.cache
+C:\Users\ilya\source\repos\Simplex1\Simplex1\obj\Debug\Simplex1.exe
+C:\Users\ilya\source\repos\Simplex1\Simplex1\obj\Debug\Simplex1.pdb
